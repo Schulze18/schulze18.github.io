@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Lucas Schulze"
-  avatar           : "lucas_schulze.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "profile.png"
+  bio              : "Electrical engineering master student, passionate about robotics"
   location         : "Location"
   employer         :
   pubmed           : 
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://www.youtube.com/channel/UC4wPSJyVf27yEraI1C6k6pQ"
+  youtube          : "UC4wPSJyVf27yEraI1C6k6pQ"
   wikipedia        :
 
 
@@ -187,6 +187,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  courses:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -242,6 +245,14 @@ defaults:
       type: talks
     values:
       layout: talk
+      author_profile: true
+      share: true
+  # _courses
+  - scope:
+      path: ""
+      type: courses
+    values:
+      layout: courses
       author_profile: true
       share: true
 

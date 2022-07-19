@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Lucas Schulze"
   avatar           : "profile.png"
-  bio              : "Electrical engineering master student, passionate about robotics"
-  location         : "Location"
+  bio              : "Msc in Electrical Engineering"
+  location         : "Brazil"
   employer         :
   pubmed           : 
   googlescholar    : 
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "lucas-schulze"
   orcid            : "http://orcid.org/0000-0003-0662-3279"
   pinterest        :
   soundcloud       :
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "UC4wPSJyVf27yEraI1C6k6pQ"
+  youtube          : "c/LucasSchulzeRobotics"
   wikipedia        :
 
 

@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Publications"
-    url: /publications/
+    url: https://www.researchgate.net/profile/Lucas-Schulze
 
   #- title: "Talks"
   #  url: /talks/    
@@ -16,10 +16,10 @@ main:
   #  url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: /files/CV_Lucas_Schulze.pdf
     
   #- title: "Guide"
   #  url: /markdown/
 
-  - title: "Courses"
-    url: /courses/
+  # - title: "Courses"
+  #  url: /courses/
